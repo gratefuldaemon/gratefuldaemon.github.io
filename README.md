@@ -1,9 +1,6 @@
 # Home
-- [blog](https://oddfeed.github.io/blog/) - My personal blog
-- [dotorg](https://oddfeed.github.io/dotorg/) - a searchable and tagged backup for misc org files, think of an export of my brain.
-
-<h1 align="center">Hello I'm ODDFEED</h1>
-
+- [blog](https://gratefuldaemon.github.io/blog/) - My personal blog
+- [dotorg](https://gratefuldaemon.github.io/dotorg/) - a searchable and tagged backup for misc org files, think of an export of my brain.
 
 # Curated links
 - [predictions](https://oddfeed.github.io/dotorg/#9aa6816e-42a1-47d0-9755-b0a6cc9e9519) - A list of predictions I've made on several subjects with basic statistics (git history can be found [here](https://github.com/oddfeed/dotorg/commits/main/20241102-predictions.org))
